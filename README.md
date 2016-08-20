@@ -1,4 +1,5 @@
 # Super-rentals
+Sample Ember App using tutorial guide https://guides.emberjs.com/v2.7.0/tutorial/ember-cli/
 
 ## Running / Development
 
@@ -18,11 +19,11 @@
 ### Deploying
 http://ravi-ember-app.surge.sh/
 
-rm -rf dist
-ember build --environment=development
-cd dist
-cp index.html 200.html
-surge ravi-ember-app.surge.sh/
+* rm -rf dist
+* ember build --environment=development
+* cd dist
+* cp index.html 200.html
+* surge ravi-ember-app.surge.sh/
 
 
 
