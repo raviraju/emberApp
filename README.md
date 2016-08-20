@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Super-rentals
 
 This README outlines the details of collaborating on this Ember application.
@@ -51,3 +52,7 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
+=======
+# emberApp
+Single Page Web App using ember tutorial
+>>>>>>> f2c02eadcc261a2ff1b18c92a9b4a79a17f773b0
